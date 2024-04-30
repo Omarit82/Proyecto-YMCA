@@ -1,5 +1,7 @@
 {
   "dependencies": {
+    "hover": "^3.0.0-alpha.6",
+    "hover.css": "^2.3.2",
     "sass": "^1.75.0"
   }
 }
