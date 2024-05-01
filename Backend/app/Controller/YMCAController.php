@@ -17,4 +17,28 @@ class YMCAController{
     function home(){
         $this->view->ShowHome();
     }
+
+    function edicion(){
+        $this->view->ShowEdicion();
+    }
+
+    function equipos(){
+        $this->view->ShowEquipos();
+    }
+
+    function resultados(){
+        $this->view->ShowResultados();
+    }
+
+    function reglamento(){
+        $this->view->ShowReglamento();
+    }
+
+    function inscripciones(){
+        $this->view->ShowReglamento();
+    }
+
+    function contacto(){
+        $this->view->ShowReglamento();
+    }
 }

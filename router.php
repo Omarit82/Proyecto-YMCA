@@ -1,6 +1,7 @@
 <?php
 require_once 'Config/ConfigApp.php';
 require_once 'Backend/app/Controller/YMCAController.php';
+require_once 'Backend/app/Controller/LoginController.php';
 /* Require__once a los controllers*/
 # ROUTER AVANZADO
 /**POR LA PRESENCIA DEL ARCHIVO .HTACCESS CUANDO LEVANTE LA URL IRA AL ROUTER */
